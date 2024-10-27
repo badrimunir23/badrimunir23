@@ -1,6 +1,6 @@
 Hi!👋 I'm Munir
 
-A front-end developer candidate who is currently studying @dicodingacademy and WPU
+A front-end developer candidate who is currently studying at @dicodingacademy and WPU
 
 Here are some ideas to get you started:
 
